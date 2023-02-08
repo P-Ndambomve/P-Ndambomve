@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ['Patrice Ndambomve']( https://www.researchgate.net/profile/Patrice-Ndambomve)
-- 👀 A Mathematician interested in Machine Learning Control and TDA.
+- 👋 Hi, I’m [Patrice Ndambomve]( https://www.researchgate.net/profile/Patrice-Ndambomve)
+- 👀 A Mathematician working on Mathematical Control Theory of Functional Differential Equations interested in Machine Learning and TDA.
 - 🌱 I’m currently working on
 - [] Machine Learning Professional Certification
 - [] Machine Learning Control Projects
